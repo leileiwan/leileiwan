@@ -1,4 +1,4 @@
-### Hi 👋, I'm Wan Lei 👩🏻‍💻
+### Hi 👋, I'm Wan Lei 🧑‍💻
  
 ![](https://komarev.com/ghpvc/?username=leileiwan&color=66caf6)
 
